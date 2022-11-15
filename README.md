@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 🤘🏻
 
-<!--
-**bh/bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Stats:
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=bh&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
+<br />
 
-Here are some ideas to get you started:
+<div align='center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=bh' alt='Github stats' align='center' />
+</div>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bh' alt='Github stats' align='center' />
+</div>
+<br />
+
+## 🔎 How to reach me:
+<p>📧 Email: <a href='mailto:ffkl3lk2@ca.pagenotfound.de'>ffkl3lk2@ca.pagenotfound.de</a></p>
+<p>🌐 Website: <a href='https://www.pagenotfound.de'>https://www.pagenotfound.de</a></p>
